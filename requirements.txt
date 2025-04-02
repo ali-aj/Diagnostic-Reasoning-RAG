@@ -1,0 +1,6 @@
+streamlit
+torch
+langchain
+langchain_community
+chromadb
+transformers
