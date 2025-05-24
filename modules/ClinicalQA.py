@@ -11,7 +11,7 @@ class ClinicalQA:
             temperature=0.3,
             top_p=0.9,
             repeat_penalty=1.1,
-            num_ctx=4096  # Use larger context window if available
+            num_ctx=4096 
         )
         
         # Clinical prompt template optimized for Gemma
